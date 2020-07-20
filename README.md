@@ -55,7 +55,10 @@ transmitter or a receiver.
 
 i2c, usart, usb, external character lcd hd44780, ST7735r spi graphic lcd, kentec
 parallel & spi lcd, bluetooth, wifi, iot.
+
 I included some posts for reference.
+
+https://github.com/noey2020/How-to-Write-Subroutines-in-C-Assembly-STM32
 
 https://github.com/noey2020/How-to-Write-Multitasking-STM32
 
