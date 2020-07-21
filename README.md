@@ -58,6 +58,8 @@ parallel & spi lcd, bluetooth, wifi, iot.
 
 I included some posts for reference.
 
+https://github.com/noey2020/How-to-Write-SysTick-Handler-for-STM32
+
 https://github.com/noey2020/How-to-Write-Subroutines-in-C-Assembly-STM32
 
 https://github.com/noey2020/How-to-Write-Multitasking-STM32
